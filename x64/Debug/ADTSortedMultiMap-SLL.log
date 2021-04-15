@@ -1,0 +1,11 @@
+﻿  App.cpp
+  ExtendedTest.cpp
+C:\Users\denni\Documents\GitHub\ADTSortedMultiMap-SLL\res\ExtendedTest.cpp(190,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\denni\Documents\GitHub\ADTSortedMultiMap-SLL\res\ExtendedTest.cpp(223,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\denni\Documents\GitHub\ADTSortedMultiMap-SLL\res\ExtendedTest.cpp(208,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\denni\Documents\GitHub\ADTSortedMultiMap-SLL\res\ExtendedTest.cpp(215,20): warning C4101: 'ex': unreferenced local variable
+  ShortTest.cpp
+  SMMIterator.cpp
+  SortedMultiMap.cpp
+  Generating Code...
+  ADTSortedMultiMap-SLL.vcxproj -> C:\Users\denni\Documents\GitHub\ADTSortedMultiMap-SLL\x64\Debug\ADTSortedMultiMap-SLL.exe
